@@ -1,0 +1,10 @@
+{
+  "name": "hiyadocker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Example of running drop-dead simple app in Docker",
+  "author": "Jim McGaw <jpmcgaw@gmail.com>",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
